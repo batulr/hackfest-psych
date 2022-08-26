@@ -45,7 +45,7 @@ Rider
 1. The rider should select nearby available orders and should deliver them.
 2. Once the order is picked up by the rider, the rider should deliver the order from the seller to the vendor.
 
-Video Link - workflow: https://photos.app.goo.gl/SSWpzPh9dG7KeA7U9
+Video Link - workflow: https://photos.app.goo.gl/SSWpzPh9dG7KeA7U9 .
 Screenshots of pages: https://photos.app.goo.gl/J9hM98LJZA7hvcau9
 
 ---
